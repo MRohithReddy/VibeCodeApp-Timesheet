@@ -1,0 +1,5 @@
+com\example\timesheet\TimesheetApplication.class
+com\example\timesheet\controller\TimesheetController.class
+com\example\timesheet\repository\TimesheetEntryRepository.class
+com\example\timesheet\model\TimesheetEntry.class
+com\example\timesheet\config\CorsConfig.class
