@@ -1,6 +1,5 @@
 {
   "name": "timesheet-frontend",
-  "homepage": "https://mrohithreddy.github.io/VibeCodeApp-Timesheet/frontend/",
   "private": true,
   "version": "0.0.1",
   "type": "module",
